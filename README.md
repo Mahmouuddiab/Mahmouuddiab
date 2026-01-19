@@ -52,6 +52,12 @@
 
 <br clear="both">
 
+###
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🔭 I’m working as flutter developer<br>📚 I'm currently learning cloud computing<br>🎯 Goals: to be flutter senior this year<br>🎲 ⚡ In my free time I solve many problem with dart</p>
 
 ###
