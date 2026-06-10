@@ -1,78 +1,164 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWc0djJxMTVoMHV0ZDNoaWlhZ2Q0MmcybjVpNW1nYnpoNXNscno5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/m6pvmOSXuTEPaKFWBz/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWc0djJxMTVoMHV0ZDNoaWlhZ2Q0MmcybjVpNW1nYnpoNXNscno5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/m6pvmOSXuTEPaKFWBz/giphy.gif" />
 </div>
 
-###
+---
 
 <div align="center">
-  <a href="linkedin.com/in/mahmoud-diab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
+  <a href="https://linkedin.com/in/mahmoud-diab" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+
+  <a href="https://www.youtube.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+
+  <a href="https://wa.me/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+
 </div>
 
-###
+---
 
 <h2 align="center">Flutter Developer & Mobile Engineer</h2>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
+**Mahmoud Diab**  
+Flutter Developer • Mobile Engineer • Clean Architecture Enthusiast 🚀  
 
-<p align="left"># 👨‍💻 Mahmoud Diab<br><br>
-### Flutter Developer • Mobile App Engineer • Clean Architecture Enthusiast 🚀<br><br>I'm Mahmoud Diab, an Egyptian Flutter Developer based in Dammam, Saudi Arabia 🇸🇦.<br><br>* 🚀 Flutter Developer with 4+ years of experience building cross-platform mobile applications.<br>* 📱 Specialized in Flutter, Clean Architecture, State Management (Cubit, BLoC, Provider, Riverpod), and RESTful APIs.<br>* 🔥 Experienced with Firebase, Supabase, Authentication, Cloud Messaging, Push Notifications, and Real-Time Applications.<br>* 🎯 Passionate about creating scalable, maintainable, and high-performance mobile applications.<br>* 🤖 Experienced in integrating AI-powered features using Gemini and OpenAI APIs.<br>* 🌍 Skilled in developing multilingual applications with localization and internationalization support.<br>* 🏗️ Strong understanding of software architecture, design patterns, dependency injection, and clean coding practices.<br>* 📊 Experienced in consuming, designing, and integrating RESTful APIs with Dio and Http.<br>* 🗺️ Worked extensively with Google Maps, geolocation services, and location-based applications.<br>* ☁️ Familiar with backend development using Flask, Supabase, and Firebase services.<br>* 🔄 Proficient with Git, GitHub workflows, code reviews, branching strategies, and CI/CD concepts.<br>* 📚 Continuously learning new technologies and best practices in mobile development.<br>* ⚡ In my free time, I build side projects, explore emerging technologies, and contribute to open-source initiatives.<br><br>## 🛠️ Tech Stack<br><br>
-### Mobile Development<br><br>* 💙 Flutter & Dart<br>* 📱 Android & iOS Development<br>* 🎨 Responsive & Adaptive UI Design<br>* 🌐 Localization & Internationalization<br><br>
-### State Management<br><br>* 🧩 Cubit / BLoC<br>* 🏗️ Provider<br>* ⚡ Riverpod<br><br>
-### Backend & APIs<br><br>* 🌐 RESTful APIs<br>* 🚀 Dio & Http<br>* 🐍 Flask<br>* 🔥 Firebase Services<br>* ⚡ Supabase<br><br>
-### Database & Storage<br><br>* 🗄️ Hive<br>* 📦 SharedPreferences<br>* 💾 SQLite<br><br>
-### Firebase Services<br><br>* 🔥 Authentication<br>* ☁️ Cloud Firestore<br>* 📩 Cloud Messaging (FCM)<br>* 📊 Analytics<br>* 📁 Storage<br>* ⚡ Remote Config<br><br>
-### Architecture & Tools<br><br>* 🏗️ Clean Architecture<br>* 🎯 SOLID Principles<br>* 🧠 Design Patterns<br>* 💉 GetIt & Injectable<br>* 🔄 Git & GitHub<br><br>
-### Additional Skills<br><br>* 📍 Google Maps Integration<br>* 🔔 Push Notifications<br>* 🤖 AI Integration (Gemini, OpenAI)<br>* 🛒 E-Commerce Applications<br>* 💬 Real-Time Chat Applications<br>* 📈 App Performance Optimization<br><br>## 🏆 Highlights<br><br>* 🚀 Developed and maintained multiple production-ready Flutter applications.<br>* 📱 Built scalable applications using Clean Architecture and modern state management solutions.<br>* 🔥 Integrated Firebase services for authentication, notifications, analytics, and real-time features.<br>* 🤖 Developed AI-powered applications with meal recommendations, chatbots, and intelligent user experiences.<br>* 🌍 Delivered multilingual and responsive applications across Android and iOS platforms.<br><br>## 🎯 Current Goals<br><br>* 🚀 Building production-ready Flutter applications<br>* 🤖 Learning advanced AI-powered mobile experiences<br>* 🐍 Enhancing backend development skills with Flask & Python<br>* ☁️ Exploring cloud-native architectures<br>* 🌟 Contributing to open-source Flutter projects<br>* 📚 Continuously improving software architecture and system design skills<br><br>## 📈 GitHub Stats<br><br>* 🔭 Currently working on Flutter & AI projects<br>* 🌱 Learning Backend Development & System Design<br>* 👯 Open to collaborating on Flutter and Mobile Development projects<br>* 💬 Ask me about Flutter, Firebase, Clean Architecture, State Management, and API Integration<br>* ⚡ Fun Fact: I enjoy turning complex ideas into simple and intuitive mobile experiences.<br><br>## 📫 Connect With Me<br><br>* 💼 LinkedIn: linkedin.com/in/mahmoud-diab<br>* 📧 Email: [diabmahmoud450@gmail.com](mailto:diabmahmoud450@gmail.com)<br>* 📍 Dammam, Saudi Arabia</p>
+I am an Egyptian Flutter Developer based in Dammam, Saudi Arabia 🇸🇦 with 4+ years of experience building scalable mobile applications.
 
-###
+- 🚀 Flutter Developer with 4+ years of experience in cross-platform development  
+- 📱 Specialized in Flutter, Clean Architecture, and State Management (Cubit, BLoC, Provider, Riverpod)  
+- 🔥 Experienced with Firebase, Supabase, REST APIs, and real-time applications  
+- 🤖 Integrated AI features using Gemini & OpenAI APIs  
+- 🌍 Built multilingual and internationalized applications  
+- 🏗️ Strong knowledge of software architecture, SOLID principles, and design patterns  
+- 📍 Worked with Google Maps, geolocation, and location-based services  
+- ☁️ Backend experience with Flask, Firebase, and Supabase  
+- 🔄 Skilled in Git, GitHub workflows, and CI/CD fundamentals  
+- ⚡ Passionate about clean code, performance optimization, and scalable systems  
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+- Flutter & Dart  
+- Android & iOS Development  
+- Responsive & Adaptive UI  
+- Localization & Internationalization  
+
+### 🧠 State Management
+- Cubit / BLoC  
+- Provider  
+- Riverpod  
+
+### 🌐 Backend & APIs
+- RESTful APIs  
+- Dio / Http  
+- Flask  
+- Firebase  
+- Supabase  
+
+### 🗄️ Database & Storage
+- Hive  
+- SharedPreferences  
+- SQLite  
+
+### 🔥 Firebase Services
+- Authentication  
+- Firestore  
+- Cloud Messaging (FCM)  
+- Analytics  
+- Storage  
+- Remote Config  
+
+### 🏗️ Architecture & Tools
+- Clean Architecture  
+- SOLID Principles  
+- Design Patterns  
+- GetIt / Injectable  
+- Git & GitHub  
+
+### 📌 Additional Skills
+- Google Maps Integration  
+- Push Notifications  
+- AI Integration (Gemini, OpenAI)  
+- E-commerce Apps  
+- Real-time Chat Apps  
+- Performance Optimization  
+
+---
+
+## 🏆 Highlights
+
+- 🚀 Built and deployed multiple production Flutter apps  
+- 📱 Designed scalable apps using Clean Architecture  
+- 🔥 Integrated Firebase for full backend solutions  
+- 🤖 Developed AI-powered apps (chatbots, meal recommender systems)  
+- 🌍 Delivered multilingual cross-platform applications  
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building scalable production apps  
+- 🤖 Advancing AI-powered mobile experiences  
+- 🐍 Improving backend skills with Python & Flask  
+- ☁️ Exploring cloud-native architectures  
+- 🌟 Contributing to open-source projects  
+- 📚 Enhancing system design knowledge  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/mahmoud-diab  
+- 📧 Email: diabmahmoud450@gmail.com  
+- 📍 Location: Dammam, Saudi Arabia  
+
+---
+
+## 🛠️ Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
+
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 📊 GitHub Stats
 
-###
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmouuddiab&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmouuddiab&layout=compact)
+
+</div>
